@@ -1,1 +1,1 @@
-Tom's Jazz School
+LANDING PAGE apenas com HTML e CSS
